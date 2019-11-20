@@ -1,19 +1,11 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "Post 100"
-      },
-      {
-        "id": 2,
-        "title": "Post 200"
-      },
-      {
-        "id": 3,
-        "title": "Post 3"
-      }
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
   "profile": {
-    "name": "mahasl"
+    "name": "typicode"
   }
 }
